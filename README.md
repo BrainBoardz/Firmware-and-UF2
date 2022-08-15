@@ -2,5 +2,5 @@
 
 
 
-This is a repository for bin and UF2 Circuit Python files for BrainBoardz Neuron Boards
+This is a repository for bin and UF2 CircuitPython files for BrainBoardz Neuron Boards. We are currently in the process of generating these files for the BrainBoardz Neurons. The version being implemented is CircuitPython 7.3.2
 
